@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - Kingfisher (5.12.0):
+    - Kingfisher/Core (= 5.12.0)
+  - Kingfisher/Core (5.12.0)
+  - LoadingPlaceholderView (0.0.2)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - Alamofire (= 5.0.0-rc.3)
+  - Kingfisher (~> 5.12)
+  - LoadingPlaceholderView (~> 0.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - LoadingPlaceholderView
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  Kingfisher: dc6e0f53bb5b12c3e75bedb0e01bbd7a640eea69
+  LoadingPlaceholderView: e913f5ae2673612d405ce395acca7cedb1bfaa81
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: 72226f9a10a5c53cb365ec363c82a3327d787159
+
+COCOAPODS: 1.8.4
